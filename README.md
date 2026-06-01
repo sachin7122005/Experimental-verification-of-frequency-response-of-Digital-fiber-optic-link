@@ -86,6 +86,7 @@ Fiber optic links can be used for transmission of both digital and analog signal
 
 ## RESULT
 The digital signal was successfully transmitted through **660nm and 950nm fiber optic links** and reproduced at the receiver end.  
-The maximum bit rate of the digital link was determined experimentally.
+The maximum bit rate of the digital link was determined successfully
+
 
 
